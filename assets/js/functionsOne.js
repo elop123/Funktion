@@ -1,5 +1,11 @@
 
 // her kaldes, eller invokes din funktion
-helloWorld();
+
+ helloWorld();
+
 
 // her skal du skrive din funktion
+function helloWorld(){
+
+console.log('hello world');
+}
